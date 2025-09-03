@@ -1,4 +1,4 @@
-.img{
+.cloudImg{
     width: 2000px;
     height: 300px;
     object-fit: cover;
@@ -6,4 +6,12 @@
 
 .title{
     font-family: Garamond, serif;
+}
+
+.p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ergonomyImg {
+    
 }
