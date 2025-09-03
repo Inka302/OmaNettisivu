@@ -9,9 +9,25 @@
 }
 
 .p{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, sans-serif;
 }
 
+.vinkit{
+    color: blue;
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr 1fr 3fr;
+    column-gap: 20px;
+}
+
+
 .ergonomyImg {
-    
+    width: 400px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.nappi{
+    text-align: center;
+    margin: 30px;
 }
